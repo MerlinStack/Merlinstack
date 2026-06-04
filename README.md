@@ -24,4 +24,4 @@ With a strong foundation in managing complex state, optimizing client-side perfo
 ### 💼 Open to Opportunities
 I am actively seeking **Frontend Engineering** and **Junior/Associate Full-Stack Developer** roles where I can contribute to high-velocity engineering teams, optimize client-side architectures, and build impactful software solutions.
 
-📫 **Let's Collaborate:** [LinkedIn](https://linkedin.com/in/abuoma) | [Portfolio/Email](mailto:davidabuoma4@gmail.com)
+📫 **Let's Collaborate:** [LinkedIn](https://linkedin.com/in/abuomadavid) | [Portfolio/Email](mailto:davidabuoma4@gmail.com)
